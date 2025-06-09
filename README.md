@@ -9,7 +9,7 @@ I'm a junior software developer currently studying at Tampere University, with a
 
 ### 🔗 Connect with me
 
-<a href="www.linkedin.com/in/riina-5493aa364" target="_blank">
+<a href="https://linkedin.com/in/riina-5493aa364" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:%20riina--peltonen-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" style="margin-bottom: 5px;">
 </a>
 
