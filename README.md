@@ -18,7 +18,7 @@ I'm a junior software developer currently studying at Tampere University, with a
 
 ### 🚀 My Latest Projects
 
-- 💬 [**Google Gemini-based RAG chatbot**](https://github.com/riinaeer/slt-steer) – trained with evidence-based medical data to support heart patients with reliable answers.
+- 💬 [**Google Gemini-based RAG chatbot**](https://github.com/riinaeer/slt-steer) – trained with evidence-based medical data to support heart patients with reliable answers. 🎥 [Watch the demo video](https://drive.google.com/file/d/1Mf2Rzc9gZXFGHB8G3gfklqyTTwtNpJNT/view?usp=sharing)
 - 🔍 **AI-enhanced accessibility planner** – assists users in navigating hospitals with step-free routing usinng Google Routes, RAG etc. This project was implemented with n8n lowcode platform.
 
 ---
