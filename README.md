@@ -19,10 +19,9 @@ I'm a Master's student in Computer Science at Tampere University, with a backgro
 ### 🚀 My Latest Projects
 
 * 🫀 2026 [**HeartWise 2.0**](https://github.com/slt-prior-org/SLT-PRIOR.git) – A research-oriented proof of concept built as a continued development version of the earlier HeartWise RAG chatbot project. HeartWise 2.0 expands the original evidence-based coronary artery disease chatbot with human-in-the-loop workflows, emergency detection, safety classification, professional review tools, real-time chat, and AI-generated summaries to explore safer patient guidance.
-  🎥 [Watch the demo video](https://drive.google.com/file/d/1ae96brJXKzf0QEynVH7n7e0K9W9f8nmP/view?usp=sharing)
+  🎥 [Watch the demo video](https://drive.google.com/file/d/14OkOzRoPNZyA0EAmlslmCcYOCn7nCinD/view?usp=sharing)
 
 * 💬 2025 [**Google Gemini-based RAG chatbot**](https://github.com/riinaeer/slt-steer) – HeartWise RAG chatbot provides heart patients with reliable, evidence-based medical guidance.
-  🎥 [Watch the demo video](https://drive.google.com/file/d/1Mf2Rzc9gZXFGHB8G3gfklqyTTwtNpJNT/view?usp=sharing)
 
 * 🔍 2025 [**AI-enhanced accessibility planner**](https://github.com/riinaeer/VisitTaysAI) – VisitTaysAI assists users in navigating TAYS hospital using Google Routes, RAG, and related AI-based tools. This project was implemented with the n8n low-code platform.
 
